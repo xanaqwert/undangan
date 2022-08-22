@@ -24,7 +24,7 @@ function myFunction(){
             confirmButtonText:
               'Baik, Saya Mengerti! <i class="fa fa-thumbs-up"></i> ',
             confirmButtonAriaLabel: 'Thumbs up, great!',
-          }) }, 3000);
+          }) }, 3200);
 
 
 };   

@@ -432,6 +432,7 @@ html, body {
 
  body{
 	overflow-x: hidden;
+	position: relative;
  } 
 
 img {
@@ -441,9 +442,6 @@ img {
 
 
 
-#get-waves1{
-	
-}
 .swal2-styled.swal2-confirm {
     border: 0;
     border-radius: 0.25em;
@@ -645,7 +643,7 @@ html, body {
 	max-width: 100%;
 	height: auto;
 	position: relative;
-	top: -40px;
+	top: -38px;
 }
 
 .waves-after-opening{
