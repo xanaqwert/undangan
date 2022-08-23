@@ -424,7 +424,7 @@ html, body {
     width: 100%;
     scroll-behavior: smooth;
 	margin: 0; height: 100%;
-	background: #feffe8;
+	background: #feffe8 !important;
 
   }
 
