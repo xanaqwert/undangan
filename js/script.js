@@ -14,7 +14,7 @@ function myFunction(){
     $("body").removeClass("disable-scroll")
     setTimeout(function() 
         {Swal.fire({
-            title: '<img src="/assets/img/face-mask.png" alt="">',
+            title: '<img src="https://i.ibb.co/TRgvTLr/face-mask.png" alt="/assets/img/face-mask.png">',
             icon: 'info',
             html:
               'Selalu  <b>Gunakan</b>, ' +
@@ -24,7 +24,7 @@ function myFunction(){
             confirmButtonText:
               'Baik, Saya Mengerti! <i class="fa fa-thumbs-up"></i> ',
             confirmButtonAriaLabel: 'Thumbs up, great!',
-          }) }, 3200);
+          }) }, 3000);
 
 
 };   
