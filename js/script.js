@@ -4,9 +4,6 @@
 $("body").addClass("disable-scroll");
 
 
-function amplopDigital(){
-    Swal.fire('Transfer langsung ke rekening di bawah ini BCA1232141212 <br> a/n Lumine')
-}; 
 
 
 
@@ -25,9 +22,20 @@ function myFunction(){
               'Baik, Saya Mengerti! <i class="fa fa-thumbs-up"></i> ',
             confirmButtonAriaLabel: 'Thumbs up, great!',
           }) }, 3000);
-
-
 };   
+
+function amplopDigital(){
+    Swal.fire({
+        showCloseButton: true,
+        imageUrl: 'https://i.ibb.co/SffGnXW/amplop.png',
+        imageWidth: 325,
+        imageHeight: 240,
+        imageAlt: '/assets/img/amplop.png',
+        confirmButtonText:
+              'Baik  <i class="fa fa-thumbs-up"></i> ',
+            confirmButtonAriaLabel: 'Thumbs up, great!',
+      })   
+}
 /**
  * ITEManimate object is used to animate ease with bezier functions
  * example: TweenMax.to($('selector'), 1.5, {left:"80%", ease: ITEManimate.bezier(0.04,0.86,0.8,1)});
