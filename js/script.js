@@ -1,11 +1,12 @@
-
-
-
 $("body").addClass("disable-scroll");
 
-
-
-
+function ucapan(){
+    Swal.fire(
+        'Ucapan anda telah terkirim!',
+        'Terimakasih atas ucapannya!',
+        'success'
+      )
+}
 
 function myFunction(){
     $("body").removeClass("disable-scroll")
@@ -36,6 +37,7 @@ function amplopDigital(){
             confirmButtonAriaLabel: 'Thumbs up, great!',
       })   
 }
+
 /**
  * ITEManimate object is used to animate ease with bezier functions
  * example: TweenMax.to($('selector'), 1.5, {left:"80%", ease: ITEManimate.bezier(0.04,0.86,0.8,1)});
@@ -315,7 +317,7 @@ $(document).on('clic', function(){
 
 var labels = ['weeks', 'days', 'hours', 'minutes', 'seconds'],
 	TimerCount = new Date("Nov 29, 2022 00:00:00").getTime(),
-	template = _.template( jQuery('#main-example-template').html()),
+	template = _.template( jQuery('#xanaqwert-time').html()),
 	currDate = '00:00:00:00:00',
 	nextDate = '00:00:00:00:00',
 	parser = /([0-9]{2})/gi,
