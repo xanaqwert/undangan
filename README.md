@@ -17,9 +17,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang Undangan Pernikahan
 
-<img src="images-undangan/undangan-1.png" alt="Screenshot" width="500px" height="400px">
+<img src="images-undangan/undangan-1.png" alt="Screenshot" width="500px" height="800px">
 
-<img src="images-undangan/undangan-2.png" alt="Screenshot" width="500px" height="400px">
+<img src="images-undangan/undangan-2.png" alt="Screenshot" width="500px" height="800px">
 
 Website undangan pernikahan interaktif untuk pasangan.
 
