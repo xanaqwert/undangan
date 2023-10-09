@@ -17,7 +17,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang Undangan Pernikahan
 
-<img src="Images/Screenshot (196).png" alt="Screenshot">
+<img src="images-undangan/undangan-1.png" alt="Screenshot">
+
+<img src="images-undangan/undangan-2.png" alt="Screenshot">
 
 Website undangan pernikahan interaktif untuk pasangan.
 
