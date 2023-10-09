@@ -19,8 +19,6 @@
 
 <p align="center">
 <img src="images-undangan/undangan-1.png" alt="Screenshot" width="450px" height="800px">
-
-<img src="images-undangan/undangan-2.png" alt="Screenshot" width="450px" height="800px">
 </p>
 
 
